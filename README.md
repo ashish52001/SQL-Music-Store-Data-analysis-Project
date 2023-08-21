@@ -3,7 +3,7 @@ In this project are working on the data set of a music store and are analyzing t
 # TOOLS USED
 1. MYSQL 
 2. MS EXCEL
-#Functionalities
+# Functionalities
 1. Group by
 2. Group by and Having clause
 3. Joins
