@@ -8,6 +8,6 @@ In this project are working on the data set of a music store and are analyzing t
 2. Group by and Having clause
 3. Joins
 4. Subqueries
-5.Agregates 
+5. Agregates 
 # SCHEMA for the dataset
 ![MusicDatabaseSchema (1)](https://github.com/ashish52001/SQL-Music-Store-Data-analysis-Project/assets/142526643/0ab08427-6559-4b9e-8abb-790317cc770b)
